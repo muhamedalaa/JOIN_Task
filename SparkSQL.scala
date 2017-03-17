@@ -1,4 +1,4 @@
-package dakak.work
+package com.project_team.spark
 
 import org.apache.spark._
 import org.apache.spark.SparkContext._
